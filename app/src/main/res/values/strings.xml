@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="title_hint">Deal Hint</string>
+    <string name="price_hint">Price (Numbers Only)</string>
+    <string name="description_hint">Description</string>
+    <string name="save_menu">Save</string>
+    <string name="firebase_client_id">
+        352102813717-8duts948uk00n4lufii7mbeceqd68mt2.apps.googleusercontent.com</string>
+    <string name="delete_deal">Delete Deal</string>
+    <string name="image_button">Upload Image</string>
+</resources>
